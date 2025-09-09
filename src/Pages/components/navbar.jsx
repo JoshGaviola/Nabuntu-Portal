@@ -79,7 +79,7 @@ const Navbar = () => {
       <div>
         
         {/* desktop view + laptop view */}
-        <div className="hidden laptop:flex w-full h-[100px] bg-white shadow-[var(--shadow-fancy)] items-center gap-3 desktop:flex justify-center">
+        <div className="hidden laptop:flex w-full h-[80px] bg-white shadow-[var(--shadow-fancy)] items-center gap-3 desktop:flex justify-center">
           <img src={Logo} alt="Logo" className="w-30 h-30 laptop:m-8" />
           <ul className="hidden laptop:flex justify-center items-center relative desktop:gap-10">
             <li className="hover:bg-gray-100 p-2 rounded-md cursor-pointer">
