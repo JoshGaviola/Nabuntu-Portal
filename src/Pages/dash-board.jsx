@@ -66,7 +66,7 @@ const Dashboard = () => {
             Track your progress across all enrolled courses
           </p>
 
-          <div className="grid grid-cols-1 place-items-center gap-5 mt-10">
+          <div className="grid grid-cols-1 place-items-center gap-5 mt-10 ">
             {/* Course 1 */}
             <div className="course-box border rounded px-4 py-3 flex flex-col justify-between">
               <div className="flex justify-between items-center">
