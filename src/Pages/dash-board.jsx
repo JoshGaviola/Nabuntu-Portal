@@ -109,7 +109,7 @@ const Dashboard = () => {
                       Differential Calculus
                     </p>
                     <p className="text-[13px] text-gray-500">
-                      MTH 101 • Janjan Buruloy
+                      MTH 101 • Janjan Borloloy
                     </p>
                   </div>
                 </div>
