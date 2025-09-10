@@ -218,7 +218,7 @@ const Dashboard = () => {
                   Libreng Wifi
                   <br />
                   <span className="text-[12px] text-gray-500">
-                    Saiginan sa UN
+                    Sagingan sa UN
                     <br />
                     Dili man libre kay nag bayad man mog 500 sa wifi. Pero wala
                     day toy yawa
