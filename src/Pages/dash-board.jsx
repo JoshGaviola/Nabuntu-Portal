@@ -109,7 +109,7 @@ const Dashboard = () => {
                       Differential Calculus
                     </p>
                     <p className="text-[13px] text-gray-500">
-                      MTH 101 • Janjan Buruloy
+                      MTH 101 • Janjan Borloloy
                     </p>
                   </div>
                 </div>
@@ -218,7 +218,7 @@ const Dashboard = () => {
                   Libreng Wifi
                   <br />
                   <span className="text-[12px] text-gray-500">
-                    Saiginan sa UN
+                    Sagingan sa UN
                     <br />
                     Dili man libre kay nag bayad man mog 500 sa wifi. Pero wala
                     day toy yawa
